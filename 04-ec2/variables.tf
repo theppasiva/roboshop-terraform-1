@@ -15,5 +15,5 @@ variable "environment" {
 }
 
 variable "zone_name" {
-  default = "daws76s.online"
+  default = "shivarampractise.online"
 }
